@@ -27,4 +27,4 @@ jobs:
           context: .                
           file: ./Dockerfile
           push: true
-          tags: mbhat21/hr-app-management:v1.1.0
+          tags: kbhat21/hr-app-management:v1.1.0
