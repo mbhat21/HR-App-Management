@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout Reposotory
+    - name: Checkout Repository
       uses: action/checkout@v4
 
     - name: Login to dockerhub
